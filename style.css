@@ -1,5 +1,11 @@
+body {
+    background-color: #ff6b6b;
+}
+
+
 #burger {
     display: flex ;
     justify-content: center;
     margin-top: 25%;
 }
+
